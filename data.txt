@@ -1,1 +1,2 @@
-
+amazon	Vamsi@gmail.com	123456
+zoom	Vamsi@gmail.com	qwerty
