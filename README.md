@@ -24,8 +24,6 @@ File management
 Password generation
 
 📂 Files
-Plain Text
 main.py
-logo.png
 data.json
-
+data.txt
